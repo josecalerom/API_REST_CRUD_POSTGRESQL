@@ -36,12 +36,13 @@ GIT: Debe tener Instalado GIT
 
 POST:
 
-http://localhost:3000/auth/register http://localhost:3000/users http://localhost:3000/auth/login
+http://localhost:3010/auth/register
+http://localhost:3010/users http://localhost:3000/auth/login
 
 GET ALL:
 
-http://localhost:3000/users
+http://localhost:3010/users
 
 GET PUT DELETE BY ID:
 
-http://localhost:3000/users/:id
+http://localhost:3010/users/:id
