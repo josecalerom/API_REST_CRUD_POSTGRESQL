@@ -4,7 +4,7 @@ Este repositorio tiene una API-REST realizada con Node.js y PostgreSQL la cual n
 
 # Uso
 
-1. Clona el repositorio haciendo git clone https://github.com/sergiecode/proyecto-curso-node-yt
+1. Clona el repositorio haciendo git clone https://github.com/josecalerom/API_REST_CRUD_POSTGRESQL
 2. Abre el proyecto en su editor de código
 3. Instala de los paquetes y módulos requeridos: npm install
 4. Agrega las variables de entorno que correspondan usando como plantilla .env.template
